@@ -12449,4 +12449,42 @@ fieldset:disabled .btn {
     display: none !important;
   }
 }
+
+.loginButton {
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: end;
+}
+
+.warenkorb {
+  margin-right: 20px;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: end;
+}
+
+.produktkategorien {
+  background-color: darkblue;
+  display: -ms-grid;
+  display: grid;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  justify-items: center;
+  -ms-grid-columns: (1fr)[2];
+      grid-template-columns: repeat(2, 1fr);
+  -ms-grid-rows: (2fr)[2];
+      grid-template-rows: repeat(2, 2fr);
+  row-gap: 60px;
+  padding: 60px 0px;
+}
+
+@media screen and (max-width: 650px) {
+  .produktkategorien {
+    -ms-grid-columns: 1fr;
+        grid-template-columns: 1fr;
+    -ms-grid-rows: (2fr)[4];
+        grid-template-rows: repeat(4, 2fr);
+  }
+}
 /*# sourceMappingURL=index.css.map */
