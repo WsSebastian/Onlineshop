@@ -1,0 +1,48 @@
+<div class="zweiteBuli">
+      <div class="card" style="width: 18rem;">
+        <img src="pictures/zweiteBuliLogo.png" class="card-img-top" alt="2. Bundesliga">
+        <div class="card-body">
+          <h5 class="card-title">Card title</h5>
+          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+            content.</p>
+          <a href="#" class="btn btn-primary">Go somewhere</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="heim">
+      <div class="card" style="width: 18rem;">
+        <img src="pictures/buliHeim.jpg" class="card-img-top" alt="Heimtrikots">
+        <div class="card-body">
+          <h5 class="card-title">Card title</h5>
+          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+            content.</p>
+          <a href="#" class="btn btn-primary">Go somewhere</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="auswaerts">
+      <div class="card" style="width: 18rem;">
+        <img src="pictures/buliHeim.jpg" class="card-img-top" alt="Auswärtstrikots">
+        <div class="card-body">
+          <h5 class="card-title">Card title</h5>
+          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+            content.</p>
+          <a href="#" class="btn btn-primary">Go somewhere</a>
+        </div>
+      </div>
+    </div>
+
+
+
+    <div class="trikot">
+          <div class="card" style="width: 18rem;">
+            <img src="pictures/Gladbach.webp" class="card-img-top" alt="1. Bundesliga">
+            <div class="card-body">
+              <h5 class="card-title">Borussia Mönchengladbach Heim 22/23</h5>
+              <p class="card-text">Heimtrikot von Borussia Mönchengladbach der Bundesligasaison 22/23</p>
+              <a href="details.html" class="btn btn-primary">Learn More</a>
+            </div>
+          </div>
+        </div>
